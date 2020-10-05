@@ -19,7 +19,7 @@ public class AppTest
     }
 
     @Test
-    public void testeRenda1701()
+    public void testeRendaIsento()
     {
         double actual = App.calculaIrpf(1701.12); 
         double expected = 0;
