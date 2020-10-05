@@ -1,1 +1,1 @@
-# qualidade-irpf https://travis-ci.org/p-karol/qualidade-irpf.svg?branch=main
+# qualidade-irpf [![Build Status](https://travis-ci.org/p-karol/qualidade-irpf.svg?branch=master)](https://travis-ci.org/p-karol/qualidade-irpf)
