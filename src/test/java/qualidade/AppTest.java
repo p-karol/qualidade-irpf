@@ -1,18 +1,15 @@
 package qualidade;
 
-import static org.junit.Assert.assertTrue;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 /**
  * Unit test for simple App.
  */
 public class AppTest 
 {
-    /**
-     * Rigorous Test :-)
-     */
     @Test
     public void testeRenda3002()
     {
@@ -22,10 +19,10 @@ public class AppTest
     }
 
     @Test
-    public void testeRenda3002()
+    public void testeRenda1701()
     {
-        double actual = App.calculaIrpf(3002.00); 
-        double expected = 80.36;
+        double actual = App.calculaIrpf(1701.12); 
+        double expected = 0;
         assertEquals(actual, expected);
     }
 
@@ -36,7 +33,5 @@ public class AppTest
         double expected = 355.60;
         assertEquals(actual, expected);
     }
-
-
 
 }
