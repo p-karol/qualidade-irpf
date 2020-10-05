@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Trabalho 1 - Priscilla Karolczak e Francine Constante" );
+        System.out.println( "Trabalho 1 - Priscilla Karolczak e Franciele Constante" );
         System.out.println( "https://www.urionlinejudge.com.br/judge/pt/problems/view/105");
     }
 
